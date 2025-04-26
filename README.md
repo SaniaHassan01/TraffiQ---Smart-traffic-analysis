@@ -27,4 +27,4 @@ Harnessing the power of YOLOv8, deep learning, and real-time video processing, T
 (Try it yourself and let the magic happen!)
 Url - https://huggingface.co/spaces/Sofiaakhtar/TraffiQ
 
-## "The streets of the future won't just be busy. They'll be smart.” — TraffiQ
+"The streets of the future won't just be busy. They'll be smart.” — TraffiQ
